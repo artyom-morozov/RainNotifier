@@ -7,7 +7,7 @@ current_minute = True
 START = 9
 API_KEY = 'e4031abc4d4e76d8ec6700bc5702e5a3'
 COORDINATES = '45.420754,-75.704572'
-RECIPIENTS = ['sviktam1@gmail.com', 'svettym@yahoo.com']
+RECIPIENTS = ['', '']
 
 
 start = time(18,15)
@@ -22,7 +22,7 @@ def sendEmail(recipient):
     s.starttls()
 
     # Authentication
-    s.login("sendertesting13@gmail.com", "1632PoPPsP")
+    s.login("sendertesting13@gmail.com", "")
 
     # message to be sent
     message = "Its gonna be raining today around the time you finish work. Grab an umbrella!"
