@@ -18,7 +18,7 @@ Simply run the script in the same directory as env.txt, it will send the notific
 ## Deployment
 I run this using Custom Clock Processes with APScheduler on Heroku. 
 
-(more here https://devcenter.heroku.com/articles/clock-processes-python)
+(more information here https://devcenter.heroku.com/articles/clock-processes-python)
 
 You can add this to existing Heroku repository or create a new instance, using their CLI:
 
