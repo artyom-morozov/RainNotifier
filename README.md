@@ -1,6 +1,6 @@
 # Rain Notifier
 
-Small script which sends an email  specified to specified recipiends when it is going to be raining at 6 or 6 on a given weekday.
+Small script that sends that notifies me via email on when it is going to rain on a given weekday.
 
 I use this to decide whether or not to grab my umbrella when going to work.
 
